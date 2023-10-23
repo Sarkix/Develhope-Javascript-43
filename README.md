@@ -1,2 +1,7 @@
-# Develhope-Javascript-43
-Ejercicio 43 de JavaScript del curso Develhope. Local Storage 2
+# Local Storage
+
+Starting with the previous exercise, write a method that recovers the data saved in `localStorage` and print them in the console
+
+Tips:
+
+- Remember to use the available `JSON methods` (parse, stringify)
